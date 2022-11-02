@@ -1,0 +1,57 @@
+{
+	"name": "kawaine-theme",
+	"displayName": "Kawaine Theme",
+	"description": "There is no human being who is dominated by darkness",
+	"version": "0.0.1",
+	"publisher": "sazumiviki",
+	"license": "MIT",
+	"galleryBanner": {
+		"color": "#1e2a3c",
+		"theme": "dark"kawaine-theme
+	},
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"kawaine",
+		"theme",
+		"sazumiviki",
+		"sazumi"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kawaine Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kawaine.json"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/sazumivicky/kawaine-theme/issues",
+		"email": "hi@sazumiviki.com"
+	},
+	"homepage": "https://github.com/sazumivicky/kawaine-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sazumivicky/kawaine-theme"
+	},
+	"sponsor": {
+		"url": "https://github.com/sponsors/sazumivicky"
+	},
+	"__metadata": {
+		"id": "25be9ff4-f994-67b2-9af7-af8e0cdb414a",
+		"publisherId": "sazumiviki",
+		"publisherDisplayName": "Sazumi Viki",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1667365027754,
+		"preRelease": false
+	}
+}
