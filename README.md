@@ -1,4 +1,4 @@
-# Atom One Dark Theme
+# Kawaine Visual Studio Code Theme
   
 There is no human being who is dominated by darkness
 
