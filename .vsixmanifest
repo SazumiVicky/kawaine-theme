@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="kawaine-theme" Version="0.0.2" Publisher="sazumiviki" />
-			<DisplayName>kawaine theme</DisplayName>
+			<Identity Language="en-US" Id="kawaine-theme" Version="0.0.4" Publisher="sazumiviki" />
+			<DisplayName>Kawaine Theme</DisplayName>
 			<Description xml:space="preserve">There is no human being who is dominated by darkness</Description>
-			<Tags>sazumi,sazumiviki,pink,dark,themes,kawaine,cloud</Tags>
+			<Tags>kawaine,theme,sazumiviki,sazumi,color-theme,__web_extension,__sponsor_extension</Tags>
 			<Categories>Themes</Categories>
 			<GalleryFlags>Public</GalleryFlags>
-
+			
 			<Properties>
 				<Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.12.0" />
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
@@ -17,13 +17,15 @@
 				
 				<Property Id="Microsoft.VisualStudio.Code.SponsorLink" Value="https://github.com/sponsors/sazumivicky" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/sazumivicky/kawaine-theme.git" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/sazumivicku/kawaine-theme.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/sazumivicky/kawaine-theme.git" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/sazumivicky/kawaine-theme.git" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/sazumivicky/kawaine-theme/issues" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/sazumivicky/kawaine-theme" />
-				<Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#1e2a3c" />
-				<Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
+				<Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#131c29" />
+				<Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="kawaine-theme" />
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
+				<Property Id="Microsoft.VisualStudio.Services.Content.Pricing" Value="Free"/>
+
 				
 				
 			</Properties>
