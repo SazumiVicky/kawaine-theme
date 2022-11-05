@@ -2,7 +2,7 @@
 	"name": "kawaine-theme",
 	"displayName": "Kawaine Theme",
 	"description": "There is no human being who is dominated by darkness",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "sazumiviki",
 	"license": "MIT",
 	"galleryBanner": {
@@ -51,7 +51,7 @@
 		"isApplicationScoped": false,
 		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1667611456496,
+		"installedTimestamp": 1667615151073,
 		"preRelease": false
 	}
 }

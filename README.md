@@ -2,15 +2,7 @@
   
 There is no human being who is dominated by darkness
 
-![Preview](https://github.com/sazumivicky/kawaine-theme/raw/HEAD/kawaine-pht%20(1).png)
-
-<hr>
-
-![Preview](https://github.com/sazumivicky/kawaine-theme/raw/HEAD/kawaine-pht%20(2).png)
-
-<hr>
-
-![Preview](https://github.com/sazumivicky/kawaine-theme/raw/HEAD/kawaine-pht%20(3).png)
+![Preview](/sazumiviki-preview.png)
 
 ## Installing
 

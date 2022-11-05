@@ -15,3 +15,6 @@ There is no human being who is dominated by darkness
 
 ## Version 0.0.5
 * I changed the color to make it more even
+
+## Version 0.0.6
+* Fixed some bugs
