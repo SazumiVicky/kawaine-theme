@@ -6,7 +6,7 @@
 	"publisher": "sazumiviki",
 	"license": "MIT",
 	"galleryBanner": {
-		"color": "#131c29",
+		"color": "#172030",
 		"theme": "kawaine-theme"
 	},
 	"engines": {
@@ -51,7 +51,7 @@
 		"isApplicationScoped": false,
 		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1667479666543,
+		"installedTimestamp": 1667611456496,
 		"preRelease": false
 	}
 }
