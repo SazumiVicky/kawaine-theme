@@ -2,7 +2,27 @@
   
 There is no human being who is dominated by darkness
 
-![Preview](/sazumiviki-preview.png)
+![Preview](https://github.com/sazumivicky/kawaine-theme/raw/HEAD/sazumiviki-preview.png)
+
+<hr>
+
+Kawaine themes are made with several skills, including.
+
+![Preview](/sazumiviki-including.png)
+
+<hr>
+
+Run with multiple colors
+
+![Preview](/sazumiviki-color.png)
+
+<hr>
+
+And made by special experts
+
+![Preview](/sazumiviki-developer.png)
+
+<hr>
 
 ## Installing
 

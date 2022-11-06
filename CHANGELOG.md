@@ -18,3 +18,6 @@ There is no human being who is dominated by darkness
 
 ## Version 0.0.6
 * Fixed some bugs
+
+## Version 0.0.7
+* Adding some description
